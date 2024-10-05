@@ -19,5 +19,4 @@ Ensure you have Python installed on your machine. You can download it from [pyth
 
    ```bash
    git clone https://github.com/Toqa-Yasser/Book-Store.git
-   cd books-to-scrape
 
