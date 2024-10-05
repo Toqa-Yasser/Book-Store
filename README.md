@@ -18,6 +18,6 @@ Ensure you have Python installed on your machine. You can download it from [pyth
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/books-to-scrape.git
+   git clone https://github.com/Toqa-Yasser/Book-Store.git
    cd books-to-scrape
 
